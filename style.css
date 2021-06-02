@@ -30,4 +30,6 @@
 
 /* https://hiroppy.github.io/fusuma/docs/guides/slide-syntax#declaring-section-title */
 .section-title {
+  color: #3498db;
+  background: #ccc;
 }
